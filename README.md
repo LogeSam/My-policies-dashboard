@@ -28,7 +28,6 @@ A small React + TypeScript app built with Vite that displays a user's policies a
 
 ## Run locally
 ```bash
-cd "d:/Infosys Interview/MyPolicies"
 npm install
 npm run dev
 ```
