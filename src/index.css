@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --brand: #0033CC;
+  --brand-accent: #FFD76A;
+}
+
+/* Focus-visible utility to ensure keyboard focus is visible */
+.focus-visible-ring:focus-visible{
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0,51,204,0.2);
+  border-radius: 8px;
+}
+
+body{
+  @apply font-sans bg-gray-50 text-gray-900;
+}
+
+.container{
+  @apply max-w-4xl mx-auto p-6;
+}
