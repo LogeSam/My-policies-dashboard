@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Policies (Vite + React + TypeScript)
 
 This small app renders a user's policies as cards, fetching mock data from `public/policies.json`.
@@ -16,3 +17,6 @@ Notes:
 - Pagination shows 3 policies per page.
 - Tailwind is used for styling; focus-visible outlines are enabled for keyboard users.
 
+=======
+# My-policies-dashboard
+>>>>>>> eca15b6196f05f5a13606f163be0d7bc451e20a6
